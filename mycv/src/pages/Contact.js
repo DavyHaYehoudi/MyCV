@@ -29,7 +29,7 @@ const Contact = () => {
                                    <i 
                                     title='Copy email adress'
                                     style={{marginLeft:'20px'}}
-                                    class="fa-solid fa-clone clickInput"
+                                    class="fa-regular fa-clone clickInput"
                                     data-clipboard-action="copy"
                                     data-clipboard-target=".target"
                                     onClick={() => {alert('mail pasted')}}>
@@ -43,13 +43,13 @@ const Contact = () => {
                     <div className='socialNetwork'>
                         <ul>
                             
-                                <a href='' target="_blank" rel='noopener noreferrer'>
+                                <a href='https://www.linkedin.com/in/davy-sebbah-2a2b4620b/' target="_blank" rel='noopener noreferrer'>
                                     <h4>LinkedIn</h4>
                                     <i className='fab fa-linkedin'></i>
                                 </a>
                             
                             
-                                <a href='' target="_blank" rel='noopener noreferrer'>
+                                <a href='https://github.com/DavyHaYehoudi?tab=repositories' target="_blank" rel='noopener noreferrer'>
                                     <h4>Github</h4>
                                     <i className='fab fa-github'></i>
                                 </a>
@@ -60,7 +60,7 @@ const Contact = () => {
                                     <i className='fab fa-twitter'></i>
                                 </a>
                            
-                                <a href='' target="_blank" rel='noopener noreferrer'>
+                                <a href='https://www.linkedin.com/in/davy-sebbah-2a2b4620b/' target="_blank" rel='noopener noreferrer'>
                                     <h4>Facebook</h4>
                                     <i className='fab fa-facebook'></i>
                                 </a>

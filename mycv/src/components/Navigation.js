@@ -59,7 +59,7 @@ const Navigation = () => {
                         </a>
                     </li>
                     <li>
-                        <a href='https://www.facebook.com/davy.sebbah.9/' target="_blank" rel="noopener noreferrer">
+                        <a href='https://www.linkedin.com/in/davy-sebbah-2a2b4620b/' target="_blank" rel="noopener noreferrer">
                         <i className='fab fa-facebook'></i>
                         </a>
                     </li>
