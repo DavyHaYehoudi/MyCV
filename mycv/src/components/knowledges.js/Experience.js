@@ -12,7 +12,7 @@ const Experience = () => {
             <div className='exp-2'>
                 <h4>Web Developer -Israel</h4>
                 <h5>2002-2016</h5>
-                <p>In February 2021, I started from zero in learning programming.  I followed two training courses recognized by the State, one with <a href='./media/diplomeOCR.pdf' rel='noopener noreferrer' className='button' target='_blank'>Openclassrooms</a> (France) and the other with Developers Institute in Israel (Tel Aviv) from which I graduated. I entered the working world in January 2022 with a job at Alon Active Exploration as a full-stack web developer.</p>
+                <p>In February 2021, I started from zero in learning programming.  I followed two training courses recognized by the State, one with <a href='./media/diplomeOCR.pdf' rel='noopener noreferrer' className='button' target='_blank' style={{textDecoration:"underline"}}>Openclassrooms</a> (France) and the other with Developers Institute in Israel (Tel Aviv) from which I graduated. I entered the working world in January 2022 with a job at Alon Active Exploration as a full-stack web developer.</p>
             </div>
         </div>
     );
