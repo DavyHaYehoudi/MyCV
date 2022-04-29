@@ -222,7 +222,7 @@
 }
 @media (max-width: 520px){
   .radioDisplay {
-    display: none !important;
+    flex-wrap: wrap;
   }
   .portfolioContent {
     grid-template-rows: 1fr !important;
