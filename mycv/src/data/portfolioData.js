@@ -142,12 +142,12 @@ export const portfolioData = [
   },
   {
     id: 16,
-    name: 'shiny',
+    name: 'mini-Netflix',
     languages: ['react'],
     languagesIcons: ['fab fa-react'],
-    source: 'https://github.com/DavyHaYehoudi/Shiny',
-    info: 'find the ideal profile following a database and after completing a questionnaire',
-    picture: './media/Shiny.png'
+    source: 'https://cineflix-dcd6d.web.app/',
+    info: 'Netflix by the mini-way',
+    picture: './media/cineflix.png'
   },
   {
     id: 17,
