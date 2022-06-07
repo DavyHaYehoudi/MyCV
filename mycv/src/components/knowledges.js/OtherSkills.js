@@ -9,13 +9,13 @@ const OtherSkills = () => {
                     <li><i className='fas fa-check-square'></i> English-Hebrew</li>
                     <li><i className='fas fa-check-square'></i> Github</li>
                     <li><i className='fas fa-check-square'></i> SEO</li>
-                    <li><i className='fas fa-check-square'></i> Webflow -CMS</li>
+                    <li><i className='fas fa-check-square'></i> Webflow -CMS<a href='https://www.unitech-groupe.com/' rel="noopener noreferrer" target="_blank" style={{textDecoration:"underline", color:"#ddd", marginLeft:"5px"}}>Demo</a></li>
                 </ul>
                 <ul>
-                    <li><i className='fas fa-check-square'></i> Figma</li>
+                    <li><i className='fas fa-check-square'></i> Emailing - Spams</li>
                     <li><i className='fas fa-check-square'></i> UI/UX Design</li>
-                    <li><i className='fas fa-check-square'></i> Adobe XD</li>
-                    <li><i className='fas fa-check-square'></i> Video</li>
+                    <li><i className='fas fa-check-square'></i> Metronic - Bootstrap</li>
+                    <li><i className='fas fa-check-square'></i> Hosting OVH-Firebase</li>
                 </ul>
             </div>
         </div>
